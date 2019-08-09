@@ -1,0 +1,12 @@
+/venv/
+*.pdf
+
+.idea/
+
+*.xml
+
+/email/
+
+
+/machinelearninginaction/
+test.py
